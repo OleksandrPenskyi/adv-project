@@ -13,7 +13,7 @@
 
   background: red;
   /* outline: 1px solid red; */
-  background-image: url('/img/pic.webp');
+  background-image: url('/img/bg.jpg');
   background-size: 1200px 1000px;
   margin: 0 auto;
 }
