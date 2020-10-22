@@ -11,9 +11,9 @@
   padding-right: 420px;
   padding-top: 250px;
 
-  background: red;
+  background: silver;
   /* outline: 1px solid red; */
-  background-image: url('/img/bg.jpg');
+  background-image: url('../img/bg.jpg');
   background-size: 1200px 1000px;
   margin: 0 auto;
 }
@@ -46,7 +46,7 @@
   content: '';
   width: 85px;
   height: 85px;
-  background-image: url('/img/telegram.svg');
+  background-image: url('../img/telegram.svg');
   background-repeat: no-repeat;
   background-size: contain;
   margin-right: 15px;
@@ -65,7 +65,7 @@
   content: '';
   width: 80px;
   height: 80px;
-  background-image: url('/img/whatsapp.svg');
+  background-image: url('../img/whatsapp.svg');
   background-repeat: no-repeat;
   background-size: contain;
   margin-right: 15px;
@@ -76,7 +76,7 @@
   content: '';
   width: 80px;
   height: 80px;
-  background-image: url('/img/vk.svg');
+  background-image: url('../img/vk.svg');
   background-repeat: no-repeat;
   background-size: contain;
   margin-right: 15px;
